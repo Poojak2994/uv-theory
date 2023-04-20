@@ -1,1 +1,17 @@
-All about my  UV sensor project:.
+All about my  UV sensor project:
+
+
+UV radiation is classified into three primary types: ultraviolet A (UVA), ultra-
+violet B (UVB), and ultraviolet C (UVC), based on their wavelengths. Almost
+all of the UV radiation that reaches earth is UVA though some UVB radiation
+reaches earth. Vitamin D is made when UV (more precisely, UVB rays) react
+with a compound (7-dehydrocholesterol) in the skin. The best rays for UV syn-
+thesis have wavelengths between 270–300 nm. These wavelengths are present
+when the UV index is greater than 3 When your skin is exposed to sunlight,
+it manufactures vitamin D. The sun’s ultraviolet B (UVB) rays interact with a
+protein called 7-DHC in the skin, converting it into vitamin D3, the active form
+of vitamin D.
+The sun’s UVB rays help the skin synthesize vitamin D, which is essential
+for human health, and especially for people with MS. ... Examples for UV
+exposure. 15 - 20 mins UV index 5 - midday, uncovered 10 - 15 mins UV index
+7 - midday, uncovered 5- 7 mins UV index 14 - midday, uncovered
